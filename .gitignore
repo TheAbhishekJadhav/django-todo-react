@@ -1,0 +1,5 @@
+# Django
+backend/db.sqlite3
+
+# React
+frontend/node_modules/
